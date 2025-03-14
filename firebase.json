@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "uabacmrawimage/prod/",
+    "public": "prod/",
     "ignore": [
       "firebase.json",
       "**/.*",
