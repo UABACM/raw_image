@@ -207,7 +207,7 @@ const RawImageViewer = () => {
         how the RAW file was created.</p>
       </div>
       <div className='mt-4 text-sm text-gray-600'>
-        <p>&copy; ACM at UAB & Michael Gathara</p>
+        <p>&copy; <a className='underline' href="https://uabacm.org/" target='_blank'>ACM at UAB</a> & <a className='underline' href='https://michaelgathara.com/' target='_black'>Michael Gathara</a> | Open Sourced: <a className='underline' href="https://github.com/UABACM/raw_image" target='_blank'>Github</a></p>
       </div>
     </div>
   );

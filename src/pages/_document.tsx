@@ -5,7 +5,6 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <meta charSet="utf-8" />
-        <title>ACM at UAB Raw Image Viewer</title>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="RAW Image Viewer by ACM at UAB" />
         <link rel="icon" href="/favicon.ico" />
